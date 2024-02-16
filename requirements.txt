@@ -1,0 +1,8 @@
+datasets
+openai
+transformers
+jinja2
+matplotlib
+numpy
+pandas
+aiohttp
